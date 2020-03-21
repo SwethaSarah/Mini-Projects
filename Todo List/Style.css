@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(44, 107, 241);
+}
+ul#List{
+    list-style-type: none;
+    font-style: italic;
+    color:white;
+    font-weight: 800;
+}
+h1{
+   color:white;
+   font-style: italic;
+   font-variant: small-caps;
+   font-size: 250%;
+}
+div{
+    text-align: center;
+}
+.checked{
+ text-decoration: line-through;
+ color:rgb(190, 187, 187);
+ font-weight:500;
+}
